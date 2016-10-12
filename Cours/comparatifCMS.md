@@ -14,7 +14,7 @@
   * Pimcore
   * Contao
 
-First Header | Second Header
+CMS | Joomla | Drupal | Wordpress | 
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
