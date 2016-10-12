@@ -1,15 +1,15 @@
-*Compraratif CMS
+* Compraratif CMS
 
-*Blogs
-  *WordPress
-  *Drupal
-  *Joomla
-  *Dotclear
+* Blogs
+  * WordPress
+  * Drupal
+  * Joomla
+  * Dotclear
 
-*Plus Complet
-  *OpenCMS
-  *SPIP
-  *CMS Made Simple
-  *SilverStripe
-  *Pimcore
-  *Contao
+* Plus Complet
+  * OpenCMS
+  * SPIP
+  * CMS Made Simple
+  * SilverStripe
+  * Pimcore
+  * Contao
