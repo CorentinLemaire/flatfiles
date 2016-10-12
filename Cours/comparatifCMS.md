@@ -14,7 +14,8 @@
   * Pimcore
   * Contao
 
-CMS | Joomla | Drupal | Wordpress | 
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+ | Joomla | Drupal | Wordpress | 
+------------ | ------------- | ------------- | -------------
+Installation | Rapide | Bien suivre la documentation | Rapide
+Configuration | Simple à mettre en place | Configuration avancée assez complexe | Simple a mettre en place
+Administration | Très complète, bien documentée, facile à prendre en main | Très complète, bien documentée | Complète, bien documentée
