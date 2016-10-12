@@ -16,7 +16,7 @@
 
 
 
- | Joomla | Drupal | Wordpress | 
+Joomla | Drupal | Wordpress | 
 ------------ | ------------- | ------------- | -------------
 Installation | Rapide | Bien suivre la documentation | Rapide
 Configuration | Simple à mettre en place | Configuration avancée assez complexe | Simple a mettre en place
