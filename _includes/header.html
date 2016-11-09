@@ -1,1 +1,10 @@
-<h2>Home</h2>
+<h2>Menu</h2>
+
+<nav>
+
+    {% for page in site.pages %}
+          <a href="{{page.url}}" >{{ page.title }}</a>
+    {% endfor %}
+ 
+
+</nav>
