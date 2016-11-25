@@ -7,6 +7,8 @@
     * default.html
     * page.html
     * post.html
+   * contact.md
+   * team.md
     
 Dans index.html, placer "layout: default" dans l'en-tête du fichier, entre les tirets.
 
