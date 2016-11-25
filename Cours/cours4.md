@@ -5,6 +5,8 @@
   * _config.yml
   * _layouts --> dossier comportant les fichiers template
     * default.html
+    * page.html
+    * post.html
     
 Dans index.html, placer "layout: default" dans l'en-tête du fichier, entre les tirets.
 
