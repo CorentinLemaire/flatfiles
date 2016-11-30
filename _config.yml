@@ -1,4 +1,9 @@
 title: CorentinLemaire
 description: 
 baseline:
-cpyright:
+copyright:
+collections:
+   cours:
+    output: true
+        
+        
