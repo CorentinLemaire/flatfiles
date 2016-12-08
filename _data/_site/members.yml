@@ -1,0 +1,15 @@
+- name: Jean-Mi
+  hobbies: La Flute
+  cursus: Master Arts
+  motivation: Aucune
+  avatar: ../assets/images/avatar1.png
+  
+  
+- name: Louis
+  hobbies: Manger
+  cursus: Master Cuisine
+  motivation: Manger
+  avatar: ../assets/images/avatar2.png
+  
+  
+  
