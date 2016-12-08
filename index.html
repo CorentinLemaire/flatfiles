@@ -15,5 +15,26 @@ layout: default
 {% for cours in site.cours %}
     <a href="{{cours.url}}" >{{ cours.title }}</a>
 {% endfor %}
- 
-        
+
+<ul>
+{% for member in site.data.members %}
+  <li>
+      {{ member.name }}<br>
+      {{ member.hobbies }}<br>
+<img src="{{ member.avatar }}" alt="avatar de{{ member.name }}" width="10%">
+  </li>
+{% endfor %}
+</ul>
+
+
+<ul>
+{% for ligue in site.data.clubs %}
+    {% assign footbalteam={{member.footballteam}} %}
+    {% assign clubs=ligue[1]|where:key,footballteam %}
+    nom:{{ligue[0]}}
+    {% for club in ligue[1] %}
+<li> {{club.key}}</li>
+    {% endfor %}
+
+{% endfor %}
+</ul>
