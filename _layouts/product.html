@@ -1,0 +1,24 @@
+---
+layout: default
+head: snipcart.html
+---
+<div class="products">
+  {{ content }}
+</div>
+
+<div class="product">
+  
+  <a class="product" href="{{ site.baseurl }}{{ products.url }}">
+    <img src="{{ products.image }}" alt="{{ products.name }}" class="thumbnail"/>
+    <p>{{ products.name }}</p>
+  </a>
+  
+  <button class="snipcart-add-item"
+    data-item-name="{{ products.name }}"
+    data-item-image="{{ products.image }}"
+    data-item-url="{{ site.baseurl }}"
+    data-item-price="{{ products.price }}">
+    Buy it for {{ products.price }} $
+  </button>
+
+</div>
