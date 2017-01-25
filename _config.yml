@@ -6,4 +6,5 @@ collections:
    cours:
     output: true
         
-        
+collections:
+    - products
